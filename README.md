@@ -1,6 +1,3 @@
 # Hello-world
 just another repository
-Hi Humans!
-
-Robot here, I like Node.js and Coffeescript (that's what I'm made of!);
-I've had tocos on the moon and find them far superior to Earth tacos.
+hello,my name is liuyayi.
